@@ -1,1 +1,7 @@
-IyBJZ25vcmUKX19weWNhY2hlX18vCioucHljCi5lbnYKdmVudi8KLnB5dGVzdF9jYWNoZS8KcmVzZWFyY2gvCg==
+# Ignore
+__pycache__/
+*.pyc
+.env
+venv/
+.pytest_cache/
+research/
