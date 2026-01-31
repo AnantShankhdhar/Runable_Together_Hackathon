@@ -1,1 +1,223 @@
-IyBJbmR1c3RyaWFsIE1haW50ZW5hbmNlIEludGVsbGlnZW5jZSBBUEkKCioqVHJhbnNmb3JtIHVuc3RydWN0dXJlZCBtYWludGVuYW5jZSBkb2N1bWVudHMgaW50byBkZWNpc2lvbi1yZWFkeSByZWxpYWJpbGl0eSBpbnRlbGxpZ2VuY2UuKioKCj4gIkZhY3RvcmllcyBkb24ndCBsYWNrIG1haW50ZW5hbmNlIGRhdGEg4oCUIHRoZXkgbGFjayB0aGUgYWJpbGl0eSB0byBsZWFybiBmcm9tIGl0LiIKCiMjIFByb2JsZW0gU3RhdGVtZW50CgpJbmR1c3RyaWFsIHBsYW50cyBnZW5lcmF0ZSB0aG91c2FuZHMgb2YgbWFpbnRlbmFuY2Ugd29yayBvcmRlcnMsIGZhaWx1cmUgcmVwb3J0cywgYW5kIGVxdWlwbWVudCBtYW51YWxzIGV2ZXJ5IHllYXIuIFRoZXNlIGRvY3VtZW50cyBjb250YWluIGNyaXRpY2FsIGluZm9ybWF0aW9uIGFib3V0IGVxdWlwbWVudCBmYWlsdXJlcywgcm9vdCBjYXVzZXMsIGZpeGVzLCBhbmQgZG93bnRpbWUg4oCUIGJ1dCB0aGV5IGV4aXN0IGFzIHVuc3RydWN0dXJlZCBQREZzLCBzY2FubmVkIGxvZ3MsIGFuZCBmcmVlLXRleHQgdGVjaG5pY2lhbiBub3Rlcy4KCkJlY2F1c2UgdGhpcyBkYXRhIGlzIG5vdCBzdHJ1Y3R1cmVkIG9yIGNvbm5lY3RlZCBhY3Jvc3MgZG9jdW1lbnRzLCB0ZWFtcyBjYW5ub3QgbGVhcm4gZnJvbSBwYXN0IGZhaWx1cmVzLiBBcyBhIHJlc3VsdCwgdGhlIHNhbWUgZXF1aXBtZW50IGlzc3VlcyByZWN1ciwgZG93bnRpbWUgaW5jcmVhc2VzLCBhbmQgbWFpbnRlbmFuY2UgZGVjaXNpb25zIHJlbHkgb24gdHJpYmFsIGtub3dsZWRnZSByYXRoZXIgdGhhbiBkYXRhLgoKIyMgU29sdXRpb24KClRoaXMgQVBJIHByb3ZpZGVzOgotICoqQUktcG93ZXJlZCBleHRyYWN0aW9uKiogdXNpbmcgQ2xhdWRlIFNvbm5ldCB0byBwYXJzZSB1bnN0cnVjdHVyZWQgZG9jdW1lbnRzCi0gKipWZWN0b3IgZW1iZWRkaW5ncyoqIHZpYSBPcGVuQUkgZm9yIHNlbWFudGljIHNpbWlsYXJpdHkgc2VhcmNoCi0gKipTdHJ1Y3R1cmVkIGZhaWx1cmUgZGF0YWJhc2UqKiB0byBxdWVyeSBoaXN0b3JpY2FsIG1haW50ZW5hbmNlIGludGVsbGlnZW5jZQotICoqUGF0dGVybiBkZXRlY3Rpb24qKiB0byBpZGVudGlmeSByZWN1cnJpbmcgaXNzdWVzIGJlZm9yZSB0aGV5IGNhdXNlIGRvd250aW1lCgojIyBBcmNoaXRlY3R1cmUKCmBgYArilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAK4pSCICAgICAgICAgICAgICAgICAgICAgICAgIE1BSU5URU5BTkNFIElOVEVMTElHRU5DRSBBUEkgICAgICAgICAgICAgICAgICAgICAg4pSCCuKUnOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUpArilIIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUggrilIIgIOKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkCAgICDilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAgICAg4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQICAg4pSCCuKUgiAg4pSCICAgRG9jdW1lbnRzICDilILilIDilIDilIDilrbilIIgICBDbGF1ZGUgICAgIOKUguKUgOKUgOKUgOKWtuKUgiAgU3RydWN0dXJlZCBFeHRyYWN0aW9uICAg4pSCICAg4pSCCuKUgiAg4pSCICAgKFBERi9UZXh0KSDilIIgICAg4pSCICAgU29ubmV0ICAgICDilIIgICAg4pSCICAtIFdvcmsgT3JkZXJzICAgICAgICAgICDilIIgICDilIIK4pSCICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJggICAg4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYICAgIOKUgiAgLSBGYWlsdXJlIEV2ZW50cyAgICAgICAg4pSCICAg4pSCCuKUgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIgIC0gRXF1aXBtZW50IExpbmtzICAgICAgIOKUgiAgIOKUggrilIIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSs4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYICAg4pSCCuKUgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIgICAgICAgICAgICAgICAgICDilIIK4pSCICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKWvCAgICAgICAgICAgICAgICAgIOKUggrilIIgIOKUjOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUkCAgICDilIzilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJAgICAg4pSM4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSQICAg4pSCCuKUgiAg4pSCICAgU2ltaWxhciAgICDilILil4DilIDilIDilIDilIIgICBPcGVuQUkgICAgIOKUguKXgOKUgOKUgOKUgOKUgiAgIFBvc3RncmVTUUwgKyBwZ3ZlY3RvciAg4pSCICAg4pSCCuKUgiAg4pSCICAgRmFpbHVyZSAgICDilIIgICAg4pSCICAgRW1iZWRkaW5ncyDilIIgICAg4pSCICAgLSBEb2N1bWVudHMgICAgICAgICAgICDilIIgICDilIIK4pSCICDilIIgICBTZWFyY2ggICAgIOKUgiAgICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJggICAg4pSCICAgLSBXb3JrIE9yZGVycyAgICAgICAgICDilIIgICDilIIK4pSCICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJggICAgICAgICAgICAgICAgICAgICAgICDilIIgICAtIEZhaWx1cmUgRXZlbnRzICAgICAgIOKUgiAgIOKUggrilIIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pSCICAgLSBFcXVpcG1lbnQgUmVnaXN0cnkgICDilIIgICDilIIK4pSCICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKUgiAgIC0gRW1iZWRkaW5ncyAodmVjdG9yKSAg4pSCICAg4pSCCuKUgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilJTilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilJggICDilIIK4pSCICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilIIK4pSU4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSYCmBgYAoKIyMgQ29zdCBPcHRpbWl6YXRpb24gU3RyYXRlZ2llcwoKQXQgc2NhbGUgKDEwMEsrIGRvY3VtZW50cyksIEFJIHByb2Nlc3NpbmcgY29zdHMgY2FuIGJlY29tZSBzaWduaWZpY2FudC4gVGhpcyBzeXN0ZW0gaW1wbGVtZW50czoKCiMjIyAxLiBFeHRyYWN0aW9uIENhY2hpbmcKYGBgcHl0aG9uCiMgRG9jdW1lbnRzIGFyZSBoYXNoZWQ7IGlkZW50aWNhbCBjb250ZW50IHJldXNlcyBjYWNoZWQgZXh0cmFjdGlvbnMKY29udGVudF9oYXNoID0gc2hhMjU2KGRvY3VtZW50X3RleHQpCmlmIGNhY2hlLmV4aXN0cyhjb250ZW50X2hhc2gpOgogICAgcmV0dXJuIGNhY2hlLmdldChjb250ZW50X2hhc2gpICAjIFplcm8gQVBJIGNvc3QKYGBgCgojIyMgMi4gQmF0Y2ggRW1iZWRkaW5nCmBgYHB5dGhvbgojIEluc3RlYWQgb2YgZW1iZWRkaW5nIG9uZSBhdCBhIHRpbWUgKDEwMCBBUEkgY2FsbHMgZm9yIDEwMCBpdGVtcyk6CiMgQmF0Y2ggdGhlbSAoMSBBUEkgY2FsbCBmb3IgMTAwIGl0ZW1zKQpFTUJFRERJTkdfQkFUQ0hfU0laRSA9IDEwMAplbWJlZGRpbmdzID0gb3BlbmFpLmVtYmVkKGJhdGNoX29mX3RleHRzKQpgYGAKCiMjIyAzLiBTbWFydCBUZXh0IEZpbHRlcmluZwpgYGBweXRob24KIyBTa2lwIGVtYmVkZGluZyB2ZXJ5IHNob3J0IHRleHRzICh1bmxpa2VseSB0byBwcm92aWRlIHZhbHVlKQpNSU5fVEVYVF9MRU5HVEhfRk9SX0VNQkVERElORyA9IDUwCmBgYAoKIyMjIDQuIFRpZXJlZCBQcm9jZXNzaW5nCmBgYApQcmlvcml0eSAxOiBOZXcgZmFpbHVyZSByZXBvcnRzIChwcm9jZXNzIGltbWVkaWF0ZWx5KQpQcmlvcml0eSAyOiBIaXN0b3JpY2FsIGRhdGEgKGJhdGNoIHByb2Nlc3Mgb3Zlcm5pZ2h0KQpQcmlvcml0eSAzOiBMb3ctdmFsdWUgZG9jdW1lbnRzIChza2lwIG9yIGRlZmVyKQpgYGAKCiMjIyBDb3N0IEVzdGltYXRlcyAoSmFuIDIwMjUpCnwgT3BlcmF0aW9uIHwgQ29zdCBwZXIgMUsgdG9rZW5zIHwgMTBLIERvY3VtZW50cyBFc3QuIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBDbGF1ZGUgU29ubmV0IChpbnB1dCkgfCAkMC4wMDMgfCB+JDMwLTUwIHwKfCBDbGF1ZGUgU29ubmV0IChvdXRwdXQpIHwgJDAuMDE1IHwgfiQxNS0yNSB8CnwgT3BlbkFJIGFkYS0wMDIgZW1iZWRkaW5ncyB8ICQwLjAwMDEgfCB+JDEtMiB8CgojIyBRdWljayBTdGFydAoKIyMjIDEuIFN0YXJ0IFBvc3RncmVTUUwgd2l0aCBwZ3ZlY3RvcgoKYGBgYmFzaAojIFVzaW5nIERvY2tlcgpkb2NrZXItY29tcG9zZSB1cCAtZCBkYgoKIyBPciB1c2UgYSBtYW5hZ2VkIFBvc3RncmVTUUwgd2l0aCBwZ3ZlY3RvciBzdXBwb3J0CmBgYAoKIyMjIDIuIENvbmZpZ3VyZSBFbnZpcm9ubWVudAoKYGBgYmFzaApjcCAuZW52LmV4YW1wbGUgLmVudgojIEVkaXQgLmVudiB3aXRoIHlvdXIgQVBJIGtleXM6CiMgLSBBTlRIUk9QSUNfQVBJX0tFWQojIC0gT1BFTkFJX0FQSV9LRVkKIyAtIERBVEFCQVNFX1VSTApgYGAKCiMjIyAzLiBJbnN0YWxsIERlcGVuZGVuY2llcwoKYGBgYmFzaApweXRob24gLW0gdmVudiB2ZW52CnNvdXJjZSB2ZW52L2Jpbi9hY3RpdmF0ZQpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKIyMjIDQuIEluaXRpYWxpemUgRGF0YWJhc2UKCmBgYGJhc2gKcHl0aG9uIHNjcmlwdHMvbG9hZF9zYW1wbGVfZGF0YS5weQpgYGAKCiMjIyA1LiBSdW4gdGhlIEFQSQoKYGBgYmFzaAp1dmljb3JuIGFwcC5tYWluOmFwcCAtLXJlbG9hZApgYGAKCiMjIyA2LiBBY2Nlc3MgRG9jdW1lbnRhdGlvbgoKT3BlbiBodHRwOi8vbG9jYWxob3N0OjgwMDAvZG9jcyBmb3IgaW50ZXJhY3RpdmUgQVBJIGRvY3VtZW50YXRpb24uCgojIyBBUEkgRW5kcG9pbnRzCgojIyMgRG9jdW1lbnRzCi0gYFBPU1QgL2RvY3VtZW50cy91cGxvYWRgIC0gVXBsb2FkIGEgZG9jdW1lbnQKLSBgUE9TVCAvZG9jdW1lbnRzL3VwbG9hZC90ZXh0YCAtIFVwbG9hZCByYXcgdGV4dAotIGBHRVQgL2RvY3VtZW50cy9gIC0gTGlzdCBkb2N1bWVudHMKLSBgR0VUIC9kb2N1bWVudHMve2lkfWAgLSBHZXQgZG9jdW1lbnQgZGV0YWlscwotIGBQT1NUIC9kb2N1bWVudHMve2lkfS9wcm9jZXNzYCAtIFRyaWdnZXIgQUkgZXh0cmFjdGlvbgotIGBQT1NUIC9kb2N1bWVudHMvYmF0Y2hgIC0gQmF0Y2ggdXBsb2FkCgojIyMgRmFpbHVyZSBJbnRlbGxpZ2VuY2UKLSBgR0VUIC9mYWlsdXJlcy9gIC0gTGlzdCBmYWlsdXJlcwotIGBQT1NUIC9mYWlsdXJlcy9zZWFyY2hgIC0gU2VtYW50aWMgc2VhcmNoIGZvciBzaW1pbGFyIGZhaWx1cmVzCi0gYEdFVCAvZmFpbHVyZXMvc2VhcmNoL3F1aWNrP3E9Li4uYCAtIFF1aWNrIHNpbWlsYXJpdHkgc2VhcmNoCi0gYEdFVCAvZmFpbHVyZXMvYW5hbHl0aWNzL3N1bW1hcnlgIC0gRmFpbHVyZSBhbmFseXRpY3MKLSBgR0VUIC9mYWlsdXJlcy9wYXR0ZXJucy9yZWN1cnJpbmdgIC0gRmluZCByZWN1cnJpbmcgcGF0dGVybnMKLSBgUE9TVCAvZmFpbHVyZXMvZW1iZWRgIC0gR2VuZXJhdGUgZW1iZWRkaW5ncyBiYXRjaAoKIyMjIEVxdWlwbWVudAotIGBQT1NUIC9lcXVpcG1lbnQvYCAtIFJlZ2lzdGVyIGVxdWlwbWVudAotIGBHRVQgL2VxdWlwbWVudC9gIC0gTGlzdCBlcXVpcG1lbnQKLSBgR0VUIC9lcXVpcG1lbnQve2lkfWAgLSBHZXQgZXF1aXBtZW50IGRldGFpbHMKLSBgR0VUIC9lcXVpcG1lbnQve2lkfS9zdGF0c2AgLSBFcXVpcG1lbnQgcmVsaWFiaWxpdHkgc3RhdHMKLSBgR0VUIC9lcXVpcG1lbnQve2lkfS9oaXN0b3J5YCAtIE1haW50ZW5hbmNlIGhpc3RvcnkKCiMjIEV4YW1wbGUgVXNhZ2UKCiMjIyBVcGxvYWQgYSBXb3JrIE9yZGVyCgpgYGBiYXNoCmN1cmwgLVggUE9TVCAiaHR0cDovL2xvY2FsaG9zdDo4MDAwL2RvY3VtZW50cy91cGxvYWQvdGV4dCIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAnewogICAgInRleHQiOiAiTWFjaGluZSBBNzEgLSBEYXRlOiAwNC8wMy8yMDI0IC0gSXNzdWU6IFB1bXAgbWFraW5nIGdyaW5kaW5nIG5vaXNlLiBHaW5hIE1vb3JlIG5vdGVkOiBSZXBsYWNlZCB3b3JuIGJlYXJpbmdzLCByb290IGNhdXNlIHdhcyBsYWNrIG9mIGx1YnJpY2F0aW9uLiIsCiAgICAiZmlsZW5hbWUiOiAid29ya19vcmRlcl8wMDEudHh0IiwKICAgICJwbGFudF9pZCI6ICJQTEFOVC0wMDEiCiAgfScKYGBgCgojIyMgU2VhcmNoIGZvciBTaW1pbGFyIEZhaWx1cmVzCgpgYGBiYXNoCmN1cmwgLVggUE9TVCAiaHR0cDovL2xvY2FsaG9zdDo4MDAwL2ZhaWx1cmVzL3NlYXJjaCIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAnewogICAgInF1ZXJ5IjogInB1bXAgYmVhcmluZyBub2lzZSBncmluZGluZyIsCiAgICAibGltaXQiOiA1CiAgfScKYGBgCgojIyMgR2V0IEZhaWx1cmUgQW5hbHl0aWNzCgpgYGBiYXNoCmN1cmwgImh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9mYWlsdXJlcy9hbmFseXRpY3Mvc3VtbWFyeT9kYXlzPTkwIgpgYGAKCiMjIERhdGFiYXNlIFNjaGVtYQoKIyMjIENvcmUgVGFibGVzCi0gKipkb2N1bWVudHMqKiAtIFJhdyB1cGxvYWRlZCBkb2N1bWVudHMgd2l0aCBzdGF0dXMgdHJhY2tpbmcKLSAqKmVxdWlwbWVudCoqIC0gRXF1aXBtZW50IHJlZ2lzdHJ5IHdpdGggYWdncmVnYXRlZCBzdGF0cwotICoqd29ya19vcmRlcnMqKiAtIEV4dHJhY3RlZCB3b3JrIG9yZGVyIGRhdGEKLSAqKmZhaWx1cmVfZXZlbnRzKiogLSBTdHJ1Y3R1cmVkIGZhaWx1cmUgcmVjb3JkcyB3aXRoIGVtYmVkZGluZ3MKCiMjIyBDb3N0IE9wdGltaXphdGlvbiBUYWJsZXMKLSAqKmV4dHJhY3Rpb25fY2FjaGUqKiAtIENhY2hlIGZvciBkb2N1bWVudCBleHRyYWN0aW9ucwotICoqZW1iZWRkaW5nX2JhdGNoZXMqKiAtIEJhdGNoIGpvYiB0cmFja2luZwoKIyMjIEFuYWx5dGljcyBUYWJsZXMKLSAqKmZhaWx1cmVfcGF0dGVybnMqKiAtIERpc2NvdmVyZWQgcmVjdXJyaW5nIHBhdHRlcm5zCgojIyBUZWNobm9sb2d5IFN0YWNrCgotICoqRmFzdEFQSSoqIC0gQXN5bmMgUHl0aG9uIHdlYiBmcmFtZXdvcmsKLSAqKlBvc3RncmVTUUwqKiAtIFJlbGF0aW9uYWwgZGF0YWJhc2UKLSAqKnBndmVjdG9yKiogLSBWZWN0b3Igc2ltaWxhcml0eSBzZWFyY2ggZXh0ZW5zaW9uCi0gKipDbGF1ZGUgU29ubmV0KiogLSBBSSBleHRyYWN0aW9uIChBbnRocm9waWMpCi0gKipPcGVuQUkgYWRhLTAwMioqIC0gVGV4dCBlbWJlZGRpbmdzCi0gKipTUUxBbGNoZW15KiogLSBBc3luYyBPUk0KCiMjIFByb2R1Y3Rpb24gQ29uc2lkZXJhdGlvbnMKCjEuICoqQVBJIEtleXMqKjogVXNlIHNlY3JldCBtYW5hZ2VtZW50IChBV1MgU2VjcmV0cyBNYW5hZ2VyLCBldGMuKQoyLiAqKlJhdGUgTGltaXRpbmcqKjogSW1wbGVtZW50IHBlci1jbGllbnQgcmF0ZSBsaW1pdHMKMy4gKipRdWV1aW5nKio6IFVzZSBDZWxlcnkvUmVkaXMgZm9yIGJhY2tncm91bmQgcHJvY2Vzc2luZwo0LiAqKk1vbml0b3JpbmcqKjogQWRkIFByb21ldGhldXMgbWV0cmljcyBmb3IgY29zdCB0cmFja2luZwo1LiAqKkJhY2t1cCoqOiBSZWd1bGFyIFBvc3RncmVTUUwgYmFja3VwcyBpbmNsdWRpbmcgdmVjdG9yIGRhdGEKCiMjIExpY2Vuc2UKCk1JVAo=
+# Industrial Maintenance Intelligence API
+
+**Transform unstructured maintenance documents into decision-ready reliability intelligence.**
+
+> "Factories don't lack maintenance data — they lack the ability to learn from it."
+
+## Problem Statement
+
+Industrial plants generate thousands of maintenance work orders, failure reports, and equipment manuals every year. These documents contain critical information about equipment failures, root causes, fixes, and downtime — but they exist as unstructured PDFs, scanned logs, and free-text technician notes.
+
+Because this data is not structured or connected across documents, teams cannot learn from past failures. As a result, the same equipment issues recur, downtime increases, and maintenance decisions rely on tribal knowledge rather than data.
+
+## Solution
+
+This API provides:
+- **AI-powered extraction** using Claude Sonnet to parse unstructured documents
+- **Vector embeddings** via OpenAI for semantic similarity search
+- **Structured failure database** to query historical maintenance intelligence
+- **Pattern detection** to identify recurring issues before they cause downtime
+
+## Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         MAINTENANCE INTELLIGENCE API                      │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  ┌──────────────┐    ┌──────────────┐    ┌──────────────────────────┐   │
+│  │   Documents  │───▶│   Claude     │───▶│  Structured Extraction   │   │
+│  │   (PDF/Text) │    │   Sonnet     │    │  - Work Orders           │   │
+│  └──────────────┘    └──────────────┘    │  - Failure Events        │   │
+│                                           │  - Equipment Links       │   │
+│                                           └───────────┬──────────────┘   │
+│                                                       │                  │
+│                                                       ▼                  │
+│  ┌──────────────┐    ┌──────────────┐    ┌──────────────────────────┐   │
+│  │   Similar    │◀───│   OpenAI     │◀───│   PostgreSQL + pgvector  │   │
+│  │   Failure    │    │   Embeddings │    │   - Documents            │   │
+│  │   Search     │    └──────────────┘    │   - Work Orders          │   │
+│  └──────────────┘                        │   - Failure Events       │   │
+│                                           │   - Equipment Registry   │   │
+│                                           │   - Embeddings (vector)  │   │
+│                                           └──────────────────────────┘   │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+## Cost Optimization Strategies
+
+At scale (100K+ documents), AI processing costs can become significant. This system implements:
+
+### 1. Extraction Caching
+```python
+# Documents are hashed; identical content reuses cached extractions
+content_hash = sha256(document_text)
+if cache.exists(content_hash):
+    return cache.get(content_hash)  # Zero API cost
+```
+
+### 2. Batch Embedding
+```python
+# Instead of embedding one at a time (100 API calls for 100 items):
+# Batch them (1 API call for 100 items)
+EMBEDDING_BATCH_SIZE = 100
+embeddings = openai.embed(batch_of_texts)
+```
+
+### 3. Smart Text Filtering
+```python
+# Skip embedding very short texts (unlikely to provide value)
+MIN_TEXT_LENGTH_FOR_EMBEDDING = 50
+```
+
+### 4. Tiered Processing
+```
+Priority 1: New failure reports (process immediately)
+Priority 2: Historical data (batch process overnight)
+Priority 3: Low-value documents (skip or defer)
+```
+
+### Cost Estimates (Jan 2025)
+| Operation | Cost per 1K tokens | 10K Documents Est. |
+|-----------|-------------------|-------------------|
+| Claude Sonnet (input) | $0.003 | ~$30-50 |
+| Claude Sonnet (output) | $0.015 | ~$15-25 |
+| OpenAI ada-002 embeddings | $0.0001 | ~$1-2 |
+
+## Quick Start
+
+### 1. Start PostgreSQL with pgvector
+
+```bash
+# Using Docker
+docker-compose up -d db
+
+# Or use a managed PostgreSQL with pgvector support
+```
+
+### 2. Configure Environment
+
+```bash
+cp .env.example .env
+# Edit .env with your API keys:
+# - ANTHROPIC_API_KEY
+# - OPENAI_API_KEY
+# - DATABASE_URL
+```
+
+### 3. Install Dependencies
+
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### 4. Initialize Database
+
+```bash
+python scripts/load_sample_data.py
+```
+
+### 5. Run the API
+
+```bash
+uvicorn app.main:app --reload
+```
+
+### 6. Access Documentation
+
+Open http://localhost:8000/docs for interactive API documentation.
+
+## API Endpoints
+
+### Documents
+- `POST /documents/upload` - Upload a document
+- `POST /documents/upload/text` - Upload raw text
+- `GET /documents/` - List documents
+- `GET /documents/{id}` - Get document details
+- `POST /documents/{id}/process` - Trigger AI extraction
+- `POST /documents/batch` - Batch upload
+
+### Failure Intelligence
+- `GET /failures/` - List failures
+- `POST /failures/search` - Semantic search for similar failures
+- `GET /failures/search/quick?q=...` - Quick similarity search
+- `GET /failures/analytics/summary` - Failure analytics
+- `GET /failures/patterns/recurring` - Find recurring patterns
+- `POST /failures/embed` - Generate embeddings batch
+
+### Equipment
+- `POST /equipment/` - Register equipment
+- `GET /equipment/` - List equipment
+- `GET /equipment/{id}` - Get equipment details
+- `GET /equipment/{id}/stats` - Equipment reliability stats
+- `GET /equipment/{id}/history` - Maintenance history
+
+## Example Usage
+
+### Upload a Work Order
+
+```bash
+curl -X POST "http://localhost:8000/documents/upload/text" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "text": "Machine A71 - Date: 04/03/2024 - Issue: Pump making grinding noise. Gina Moore noted: Replaced worn bearings, root cause was lack of lubrication.",
+    "filename": "work_order_001.txt",
+    "plant_id": "PLANT-001"
+  }'
+```
+
+### Search for Similar Failures
+
+```bash
+curl -X POST "http://localhost:8000/failures/search" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "query": "pump bearing noise grinding",
+    "limit": 5
+  }'
+```
+
+### Get Failure Analytics
+
+```bash
+curl "http://localhost:8000/failures/analytics/summary?days=90"
+```
+
+## Database Schema
+
+### Core Tables
+- **documents** - Raw uploaded documents with status tracking
+- **equipment** - Equipment registry with aggregated stats
+- **work_orders** - Extracted work order data
+- **failure_events** - Structured failure records with embeddings
+
+### Cost Optimization Tables
+- **extraction_cache** - Cache for document extractions
+- **embedding_batches** - Batch job tracking
+
+### Analytics Tables
+- **failure_patterns** - Discovered recurring patterns
+
+## Technology Stack
+
+- **FastAPI** - Async Python web framework
+- **PostgreSQL** - Relational database
+- **pgvector** - Vector similarity search extension
+- **Claude Sonnet** - AI extraction (Anthropic)
+- **OpenAI ada-002** - Text embeddings
+- **SQLAlchemy** - Async ORM
+
+## Production Considerations
+
+1. **API Keys**: Use secret management (AWS Secrets Manager, etc.)
+2. **Rate Limiting**: Implement per-client rate limits
+3. **Queuing**: Use Celery/Redis for background processing
+4. **Monitoring**: Add Prometheus metrics for cost tracking
+5. **Backup**: Regular PostgreSQL backups including vector data
+
+## License
+
+MIT
