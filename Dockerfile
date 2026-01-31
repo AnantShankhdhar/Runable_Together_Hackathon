@@ -1,1 +1,19 @@
-RlJPTSBweXRob246My4xMS1zbGltCgpXT1JLRElSIC9hcHAKCiMgSW5zdGFsbCBzeXN0ZW0gZGVwZW5kZW5jaWVzClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgXAogICAgYnVpbGQtZXNzZW50aWFsIFwKICAgIGxpYnBxLWRldiBcCiAgICAmJiBybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoKCiMgSW5zdGFsbCBQeXRob24gZGVwZW5kZW5jaWVzCkNPUFkgcmVxdWlyZW1lbnRzLnR4dCAuClJVTiBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0CgojIENvcHkgYXBwbGljYXRpb24KQ09QWSAuIC4KCiMgUnVuCkNNRCBbInV2aWNvcm4iLCAiYXBwLm1haW46YXBwIiwgIi0taG9zdCIsICIwLjAuMC4wIiwgIi0tcG9ydCIsICI4MDAwIl0K
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libpq-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application
+COPY . .
+
+# Run
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
