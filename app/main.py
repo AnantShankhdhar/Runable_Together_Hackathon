@@ -1,1 +1,121 @@
-IiIiCkluZHVzdHJpYWwgTWFpbnRlbmFuY2UgSW50ZWxsaWdlbmNlIEFQSQoKRmFzdEFQSSBhcHBsaWNhdGlvbiBmb3IgY29udmVydGluZyB1bnN0cnVjdHVyZWQgbWFpbnRlbmFuY2UgZG9jdW1lbnRzCmludG8gc3RydWN0dXJlZCwgc2VhcmNoYWJsZSByZWxpYWJpbGl0eSBpbnRlbGxpZ2VuY2UuCiIiIgoKZnJvbSBjb250ZXh0bGliIGltcG9ydCBhc3luY2NvbnRleHRtYW5hZ2VyCmZyb20gZmFzdGFwaSBpbXBvcnQgRmFzdEFQSSwgSFRUUEV4Y2VwdGlvbgpmcm9tIGZhc3RhcGkubWlkZGxld2FyZS5jb3JzIGltcG9ydCBDT1JTTWlkZGxld2FyZQpmcm9tIGZhc3RhcGkucmVzcG9uc2VzIGltcG9ydCBKU09OUmVzcG9uc2UKCmZyb20gLmNvbmZpZyBpbXBvcnQgZ2V0X3NldHRpbmdzCmZyb20gLmRhdGFiYXNlIGltcG9ydCBpbml0X2RiCmZyb20gLnJvdXRlcyBpbXBvcnQgZG9jdW1lbnRzX3JvdXRlciwgZmFpbHVyZXNfcm91dGVyLCBlcXVpcG1lbnRfcm91dGVyCgpzZXR0aW5ncyA9IGdldF9zZXR0aW5ncygpCgoKQGFzeW5jY29udGV4dG1hbmFnZXIKYXN5bmMgZGVmIGxpZmVzcGFuKGFwcDogRmFzdEFQSSk6CiAgICAiIiJBcHBsaWNhdGlvbiBsaWZlc3BhbiBoYW5kbGVyIiIiCiAgICAjIFN0YXJ0dXAKICAgIHByaW50KCLwn5qAIFN0YXJ0aW5nIE1haW50ZW5hbmNlIEludGVsbGlnZW5jZSBBUEkuLi4iKQogICAgYXdhaXQgaW5pdF9kYigpCiAgICBwcmludCgi4pyFIERhdGFiYXNlIGluaXRpYWxpemVkIikKICAgIHlpZWxkCiAgICAjIFNodXRkb3duCiAgICBwcmludCgi8J+RiyBTaHV0dGluZyBkb3duLi4uIikKCgphcHAgPSBGYXN0QVBJKAogICAgdGl0bGU9c2V0dGluZ3MuQVBQX05BTUUsCiAgICB2ZXJzaW9uPXNldHRpbmdzLkFQUF9WRVJTSU9OLAogICAgZGVzY3JpcHRpb249IiIiCiMjIEluZHVzdHJpYWwgTWFpbnRlbmFuY2UgSW50ZWxsaWdlbmNlIEFQSQoKVHJhbnNmb3JtIHVuc3RydWN0dXJlZCBtYWludGVuYW5jZSBkb2N1bWVudHMgaW50byBkZWNpc2lvbi1yZWFkeSByZWxpYWJpbGl0eSBpbnRlbGxpZ2VuY2UuCgojIyMgQ29yZSBGZWF0dXJlcwoKLSAqKkRvY3VtZW50IFByb2Nlc3NpbmcqKjogVXBsb2FkIHdvcmsgb3JkZXJzLCBmYWlsdXJlIHJlcG9ydHMsIGVxdWlwbWVudCBsb2dzCi0gKipBSSBFeHRyYWN0aW9uKio6IENsYXVkZSBTb25uZXQgZXh0cmFjdHMgc3RydWN0dXJlZCBkYXRhIGZyb20gZnJlZSB0ZXh0Ci0gKipTZW1hbnRpYyBTZWFyY2gqKjogRmluZCBzaW1pbGFyIHBhc3QgZmFpbHVyZXMgdXNpbmcgdmVjdG9yIGVtYmVkZGluZ3MKLSAqKkZhaWx1cmUgQW5hbHl0aWNzKio6IFRyYWNrIHBhdHRlcm5zLCB0cmVuZHMsIGFuZCByZWN1cnJpbmcgaXNzdWVzCi0gKipFcXVpcG1lbnQgSW50ZWxsaWdlbmNlKio6IE1vbml0b3IgcmVsaWFiaWxpdHkgbWV0cmljcyBwZXIgYXNzZXQKCiMjIyBDb3N0IE9wdGltaXphdGlvbgoKLSBFeHRyYWN0aW9uIGNhY2hpbmcgdG8gYXZvaWQgcmVwcm9jZXNzaW5nCi0gQmF0Y2ggZW1iZWRkaW5nIGZvciByZWR1Y2VkIEFQSSBjYWxscwotIENvbmZpZ3VyYWJsZSBwcm9jZXNzaW5nIHRocmVzaG9sZHMKICAgICIiIiwKICAgIGxpZmVzcGFuPWxpZmVzcGFuLAopCgojIENPUlMgbWlkZGxld2FyZQphcHAuYWRkX21pZGRsZXdhcmUoCiAgICBDT1JTTWlkZGxld2FyZSwKICAgIGFsbG93X29yaWdpbnM9WyIqIl0sICAjIENvbmZpZ3VyZSBmb3IgcHJvZHVjdGlvbgogICAgYWxsb3dfY3JlZGVudGlhbHM9VHJ1ZSwKICAgIGFsbG93X21ldGhvZHM9WyIqIl0sCiAgICBhbGxvd19oZWFkZXJzPVsiKiJdLAopCgojIEluY2x1ZGUgcm91dGVycwphcHAuaW5jbHVkZV9yb3V0ZXIoZG9jdW1lbnRzX3JvdXRlcikKYXBwLmluY2x1ZGVfcm91dGVyKGZhaWx1cmVzX3JvdXRlcikKYXBwLmluY2x1ZGVfcm91dGVyKGVxdWlwbWVudF9yb3V0ZXIpCgoKQGFwcC5nZXQoIi8iLCB0YWdzPVsiSGVhbHRoIl0pCmFzeW5jIGRlZiByb290KCk6CiAgICAiIiJBUEkgcm9vdCAtIGhlYWx0aCBjaGVjayIiIgogICAgcmV0dXJuIHsKICAgICAgICAic2VydmljZSI6IHNldHRpbmdzLkFQUF9OQU1FLAogICAgICAgICJ2ZXJzaW9uIjogc2V0dGluZ3MuQVBQX1ZFUlNJT04sCiAgICAgICAgInN0YXR1cyI6ICJoZWFsdGh5IiwKICAgIH0KCgpAYXBwLmdldCgiL2hlYWx0aCIsIHRhZ3M9WyJIZWFsdGgiXSkKYXN5bmMgZGVmIGhlYWx0aF9jaGVjaygpOgogICAgIiIiRGV0YWlsZWQgaGVhbHRoIGNoZWNrIiIiCiAgICByZXR1cm4gewogICAgICAgICJzdGF0dXMiOiAiaGVhbHRoeSIsCiAgICAgICAgImRhdGFiYXNlIjogImNvbm5lY3RlZCIsCiAgICAgICAgImFpX3NlcnZpY2VzIjogewogICAgICAgICAgICAiY2xhdWRlIjogImNvbmZpZ3VyZWQiIGlmIHNldHRpbmdzLkFOVEhST1BJQ19BUElfS0VZIGVsc2UgIm5vdF9jb25maWd1cmVkIiwKICAgICAgICAgICAgIm9wZW5haV9lbWJlZGRpbmdzIjogImNvbmZpZ3VyZWQiIGlmIHNldHRpbmdzLk9QRU5BSV9BUElfS0VZIGVsc2UgIm5vdF9jb25maWd1cmVkIiwKICAgICAgICB9CiAgICB9CgoKQGFwcC5nZXQoIi9jb25maWciLCB0YWdzPVsiSGVhbHRoIl0pCmFzeW5jIGRlZiBnZXRfY29uZmlnKCk6CiAgICAiIiJHZXQgY3VycmVudCBjb25maWd1cmF0aW9uIChub24tc2Vuc2l0aXZlKSIiIgogICAgcmV0dXJuIHsKICAgICAgICAiY2xhdWRlX21vZGVsIjogc2V0dGluZ3MuQ0xBVURFX01PREVMLAogICAgICAgICJlbWJlZGRpbmdfbW9kZWwiOiBzZXR0aW5ncy5PUEVOQUlfRU1CRURESU5HX01PREVMLAogICAgICAgICJlbWJlZGRpbmdfZGltZW5zaW9uIjogc2V0dGluZ3MuT1BFTkFJX0VNQkVERElOR19ESU1FTlNJT04sCiAgICAgICAgImVtYmVkZGluZ19iYXRjaF9zaXplIjogc2V0dGluZ3MuRU1CRURESU5HX0JBVENIX1NJWkUsCiAgICAgICAgImV4dHJhY3Rpb25fY2FjaGVfdHRsX2RheXMiOiBzZXR0aW5ncy5FWFRSQUNUSU9OX0NBQ0hFX1RUTF9EQVlTLAogICAgfQoKCiMgRXhjZXB0aW9uIGhhbmRsZXJzCkBhcHAuZXhjZXB0aW9uX2hhbmRsZXIoSFRUUEV4Y2VwdGlvbikKYXN5bmMgZGVmIGh0dHBfZXhjZXB0aW9uX2hhbmRsZXIocmVxdWVzdCwgZXhjKToKICAgIHJldHVybiBKU09OUmVzcG9uc2UoCiAgICAgICAgc3RhdHVzX2NvZGU9ZXhjLnN0YXR1c19jb2RlLAogICAgICAgIGNvbnRlbnQ9eyJlcnJvciI6IGV4Yy5kZXRhaWx9LAogICAgKQoKCkBhcHAuZXhjZXB0aW9uX2hhbmRsZXIoRXhjZXB0aW9uKQphc3luYyBkZWYgZ2VuZXJhbF9leGNlcHRpb25faGFuZGxlcihyZXF1ZXN0LCBleGMpOgogICAgcmV0dXJuIEpTT05SZXNwb25zZSgKICAgICAgICBzdGF0dXNfY29kZT01MDAsCiAgICAgICAgY29udGVudD17ImVycm9yIjogIkludGVybmFsIHNlcnZlciBlcnJvciIsICJkZXRhaWwiOiBzdHIoZXhjKX0sCiAgICApCg==
+"""
+Industrial Maintenance Intelligence API
+
+FastAPI application for converting unstructured maintenance documents
+into structured, searchable reliability intelligence.
+"""
+
+from contextlib import asynccontextmanager
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
+
+from .config import get_settings
+from .database import init_db
+from .routes import documents_router, failures_router, equipment_router
+
+settings = get_settings()
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Application lifespan handler"""
+    # Startup
+    print("🚀 Starting Maintenance Intelligence API...")
+    await init_db()
+    print("✅ Database initialized")
+    yield
+    # Shutdown
+    print("👋 Shutting down...")
+
+
+app = FastAPI(
+    title=settings.APP_NAME,
+    version=settings.APP_VERSION,
+    description="""
+## Industrial Maintenance Intelligence API
+
+Transform unstructured maintenance documents into decision-ready reliability intelligence.
+
+### Core Features
+
+- **Document Processing**: Upload work orders, failure reports, equipment logs
+- **AI Extraction**: Claude Sonnet extracts structured data from free text
+- **Semantic Search**: Find similar past failures using vector embeddings
+- **Failure Analytics**: Track patterns, trends, and recurring issues
+- **Equipment Intelligence**: Monitor reliability metrics per asset
+
+### Cost Optimization
+
+- Extraction caching to avoid reprocessing
+- Batch embedding for reduced API calls
+- Configurable processing thresholds
+    """,
+    lifespan=lifespan,
+)
+
+# CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Configure for production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Include routers
+app.include_router(documents_router)
+app.include_router(failures_router)
+app.include_router(equipment_router)
+
+
+@app.get("/", tags=["Health"])
+async def root():
+    """API root - health check"""
+    return {
+        "service": settings.APP_NAME,
+        "version": settings.APP_VERSION,
+        "status": "healthy",
+    }
+
+
+@app.get("/health", tags=["Health"])
+async def health_check():
+    """Detailed health check"""
+    return {
+        "status": "healthy",
+        "database": "connected",
+        "ai_services": {
+            "claude": "configured" if settings.ANTHROPIC_API_KEY else "not_configured",
+            "openai_embeddings": "configured" if settings.OPENAI_API_KEY else "not_configured",
+        }
+    }
+
+
+@app.get("/config", tags=["Health"])
+async def get_config():
+    """Get current configuration (non-sensitive)"""
+    return {
+        "claude_model": settings.CLAUDE_MODEL,
+        "embedding_model": settings.OPENAI_EMBEDDING_MODEL,
+        "embedding_dimension": settings.OPENAI_EMBEDDING_DIMENSION,
+        "embedding_batch_size": settings.EMBEDDING_BATCH_SIZE,
+        "extraction_cache_ttl_days": settings.EXTRACTION_CACHE_TTL_DAYS,
+    }
+
+
+# Exception handlers
+@app.exception_handler(HTTPException)
+async def http_exception_handler(request, exc):
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={"error": exc.detail},
+    )
+
+
+@app.exception_handler(Exception)
+async def general_exception_handler(request, exc):
+    return JSONResponse(
+        status_code=500,
+        content={"error": "Internal server error", "detail": str(exc)},
+    )
